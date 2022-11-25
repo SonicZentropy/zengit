@@ -1,0 +1,1 @@
+Basic CLI tool for combining common git operations.  Made because I'm sick of alias differences on Windows, pretty useless to anyone else.
